@@ -1,0 +1,67 @@
+header {
+  background-image: url(https://wmpics.pics/di-KDRC.png);
+  height: 150px;
+}
+
+* {
+  font-family: Century Gothic;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+p.footer {
+  font-size: 14px;
+  text-align: left;
+  margin-left: 12px;
+}
+p.main_text {
+  text-align: left;
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+i {
+  font-size: 15px;
+  text-align: left;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+body {
+  background-color: #d3d1d1;
+  padding: 15px;
+  margin-right: 12%;
+}
+.black_line {
+  background-color: black;
+  display: flex;
+  height: 15px;
+}
+.Container {
+  padding: 0px 0px 20px 0px;
+  display: flex;
+}
+
+.Maincontainer {
+  width: 100%;
+  background-color: #f8f8f8;
+  height: 450px;
+}
+
+.Sidebar {
+  margin-left: 2%;
+  background-color: #f8f8f8;
+  width: 140px;
+  border: 5px solid black;
+  border-top: 5px #f8f8f8;
+}
+h1 {
+  text-align: left;
+  font-size: 14;
+  margin-left: 12px;
+}
+footer {
+  background-color: #f8f8f8;
+}
